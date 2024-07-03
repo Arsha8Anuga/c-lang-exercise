@@ -25,8 +25,6 @@ int main(){
     // This is how function called with parameter
     func_test2(str);
 
-
-
     printf("hello world");
 
      /* 
