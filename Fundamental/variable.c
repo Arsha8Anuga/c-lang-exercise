@@ -7,9 +7,9 @@ File Scope (Global Scope)
 */
 char f_scope;
 
+//Function Scope
 int main() { 
 
-    //Function Scope
     char func_scope;
 
     //Block Scope
